@@ -1,0 +1,15 @@
+{
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "email": "michaelsmith@email.com",
+    "password": "password234",
+    "street": "123 Internet Way",
+    "city": "Atlantis",
+    "zip": "00500",
+    "isRoundTrip": true,
+    "numOfPassengers": "1",
+    "departingLocation": "Frankfurt",
+    "arrivingLocation": "Acapulco",
+    "serviceClass": "First",
+    "expectedPrice": "$584 USD"
+}

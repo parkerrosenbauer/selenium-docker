@@ -1,0 +1,15 @@
+{
+    "firstName": "Cheb",
+    "lastName": "Khaled",
+    "email": "chebk@email.com",
+    "password": "shhh1992",
+    "street": "123 Cookies St",
+    "city": "Cradle",
+    "zip": "00500",
+    "isRoundTrip": true,
+    "numOfPassengers": "3",
+    "departingLocation": "Frankfurt",
+    "arrivingLocation": "Acapulco",
+    "serviceClass": "First",
+    "expectedPrice": "$1753 USD"
+}

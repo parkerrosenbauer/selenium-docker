@@ -1,0 +1,15 @@
+{
+    "firstName": "Emma",
+    "lastName": "Houston",
+    "email": "emmafarms@email.com",
+    "password": "kite88",
+    "street": "123 Webby Way",
+    "city": "Clivesdale",
+    "zip": "00500",
+    "isRoundTrip": false,
+    "numOfPassengers": "4",
+    "departingLocation": "Frankfurt",
+    "arrivingLocation": "Acapulco",
+    "serviceClass": "Economy",
+    "expectedPrice": "$2338 USD"
+}

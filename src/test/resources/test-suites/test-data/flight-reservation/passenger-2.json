@@ -1,0 +1,15 @@
+{
+    "firstName": "Marshall",
+    "lastName": "Mathers",
+    "email": "mmathers@email.com",
+    "password": "secret23",
+    "street": "44 BlockChain Dr",
+    "city": "Hatchetfield",
+    "zip": "00500",
+    "isRoundTrip": false,
+    "numOfPassengers": "2",
+    "departingLocation": "Frankfurt",
+    "arrivingLocation": "Acapulco",
+    "serviceClass": "Business",
+    "expectedPrice": "$1169 USD"
+}
